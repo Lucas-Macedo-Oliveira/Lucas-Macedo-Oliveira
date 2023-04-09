@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Raakyo&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: black)"/source>
+<img src="https://github-readme-stats.vercel.app/api?username=Raakyo&show_icons=true" />
+</picture>
+</div>
 <!--
 **Sakhul/sakhul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
