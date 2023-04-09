@@ -1,17 +1,13 @@
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Sakhul&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Sakhul&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"/source>
-<img src="https://github-readme-stats.vercel.app/api?username=Sakhul&show_icons=true" />
-</picture>
-</div>
 
-<div> 
-  <a href = "mailto:lucasoliveiracontato011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasoliveira-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sakhul#2293) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasoliveira-ti) 
 
-</div>
+
+
+![](https://github-readme-stats.vercel.app/api?username=Sakhul&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sakhul&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhul&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
