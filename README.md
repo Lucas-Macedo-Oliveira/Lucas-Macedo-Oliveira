@@ -1,8 +1,8 @@
 ### Hi there 👋
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Raakyo&show_icons=true"
+  srcset="https://github.com/Sakhul/sakhul"
   media="(prefers-color-scheme: light), (prefers-color-scheme: black)"/source>
-<img src="https://github-readme-stats.vercel.app/api?username=Raakyo&show_icons=true" />
+<img src="" />
 </picture>
 </div>
 <!--
