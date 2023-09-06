@@ -36,7 +36,7 @@
 <!-- Contato -->
 <h2 align="center">Contato</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/Lucas-Macedo-Oliveira/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasoliveira-ti/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lucasoliveiracontato011@gmail.com" target="_blank">
