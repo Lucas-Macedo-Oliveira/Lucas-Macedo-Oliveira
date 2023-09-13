@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Macedo+De+Oliveira;Tenho+20+anos;Sou+de+São+Paulo/SP;+Cursando+Análise+e+Desenvolvimento+de+Sistemas;;Seja+bem-vind@+ao+meu+World!+:%29)](https://git.io/typing-svg)
 
 
-<!---GIT STATS--->
+<!---GIT STATS
   <br/>
     <p align="center">
         <img height="130px" src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-Macedo-Oliveira&theme=radical&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
     </p>
     <p align="center">
         <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Macedo-Oliveira&hide_title=true&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&line_height=21&theme=radical" /> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Macedo-Oliveira&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
-    </p>
+    </p>--->
 
 
 
