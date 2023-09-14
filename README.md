@@ -6,11 +6,14 @@
 
 <!---GIT STATS--->
   <br/>
+   
   
   <p align="center">
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Macedo-Oliveira&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
     </p>
-    
+      <p align="center">
+     <img src="https://visitcount.itsvg.in/api?id=Lucas-Macedo-Oliveira&label=Profile%20Views&color=12&icon=6&pretty=true" />
+</a>
 
 
 
@@ -45,6 +48,4 @@
   <a href="https://instagram.com/Lucas-Macedo-Oliveira" target="_blank">
     <br>
     <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Lucas-Macedo-Oliveira&label=Profile%20Views&color=12&icon=6&pretty=true" />
-</a>
-  
+
