@@ -1,4 +1,5 @@
 <!-- Header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=10150aa&height=80&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Macedo+De+Oliveira;Tenho+21+anos;Sou+de+São+Paulo/SP;+Formado+em+Análise+e+Desenvolvimento+de+Sistemas;;Seja+bem-vind@+ao+meu+World!+:%29)](https://git.io/typing-svg)
